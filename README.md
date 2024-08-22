@@ -7,6 +7,9 @@ This project is a Windows 11 landing page built with React. It features language
 
 Check out the live version of the project: [Windows 11 Landing Page](https://contextbysai.ccbp.tech/)
 
+![image](https://github.com/user-attachments/assets/870a7f23-e114-45db-abeb-03d8447fd6fd)
+
+
 
 ## How to Run the Project
 
